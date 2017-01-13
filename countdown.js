@@ -104,7 +104,7 @@ function startSnow(){
 }
 
 window.onload = function(){
-  var christmasDate = new Date("December 25, 2016");
+  var christmasDate = new Date("December 25, 2017");
   startTimer("clock", christmasDate);
   startSnow();
 };
